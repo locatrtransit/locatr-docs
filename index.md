@@ -29,7 +29,7 @@ Locatr has three primary repositories. These are
 
 The frontend is completely static, the only configuration changes which are needed is to add the following htaccess to your server.
 
-```htaccess
+```
 <ifModule mod_rewrite.c>
     RewriteEngine On
     RewriteBase /
